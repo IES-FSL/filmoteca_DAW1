@@ -1,5 +1,5 @@
 # El Senyor dels Anells
-- __Autor__: J.R.R. Tolkien
+- __Autor__: John Ronald Reuel Tolkien
 - __Any de publicació__: 1954
 
 ## Sinopsis
