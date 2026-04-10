@@ -1,5 +1,5 @@
 ## Moriarty the Patriot
-- __Autor__: Creado por Ryosuke Takeuchi e ilustrado po Hikaru Miyoshi
+- __Autor__: Ryosuke Takeuchi
 - __Año de publicación__: 2020
 - __Idioma__: Japonés
 
