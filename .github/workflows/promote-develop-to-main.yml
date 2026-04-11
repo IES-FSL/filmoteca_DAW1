@@ -11,6 +11,9 @@ on:
 jobs:
   promote:
     runs-on: ubuntu-latest
+    # Añadimos esta sección de variables de entorno
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     permissions:
       contents: write
     
