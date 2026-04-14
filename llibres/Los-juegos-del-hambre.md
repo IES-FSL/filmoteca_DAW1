@@ -1,4 +1,4 @@
-# [Título del libro]
+# Los juegos del hambre
 - __Autor__: Suzanne Collins
 - __Año de publicación__: 2008
 
